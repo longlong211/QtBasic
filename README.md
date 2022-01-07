@@ -1,0 +1,2 @@
+# QtBasic
+learing Qt
